@@ -3,7 +3,7 @@
 - 🌱 Finding creative solutions to problems is something I have always enjoyed
 - 💞️ Always open to new and progressive ideas and suggestions
 - 📫 Do feel free to connect and interact. Have a nice day😇😇
-- https://www.linkedin.com/in/hemant--yadav/
+- https://www.linkedin.com/in/hemant-yadav24/
 
 <!---
 hemant-yadavv/hemant-yadavv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
