@@ -71,4 +71,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hemant-yadavv&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=hemant-yadavv&label=Profile%20views&color=0e75b6&style=flat" alt="hemant-yadavv" /> </p>
+
 ###
